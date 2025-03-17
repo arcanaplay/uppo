@@ -2,9 +2,8 @@
 
 namespace ReceiptApp
 {
-    class Receipt
+    public class Receipt
     {
-        // Атрибуты
         public int Number { get; set; }
         public string Date { get; set; }
         public float Amount { get; set; }
@@ -25,7 +24,7 @@ namespace ReceiptApp
             Amount = amount;
         }
 
-        // Метод для вывода информации о квитанции
+        // Метод для вывода информации
         public void PrintReceipt()
         {
             Console.WriteLine($"Номер квитанции: {Number}");

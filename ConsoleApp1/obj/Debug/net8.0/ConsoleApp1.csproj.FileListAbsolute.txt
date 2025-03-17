@@ -1,0 +1,15 @@
+\\server4\ProfilesDO\322112\Desktop\УП ПО\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+\\server4\ProfilesDO\322112\Desktop\УП ПО\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+\\server4\ProfilesDO\322112\Desktop\УП ПО\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+\\server4\ProfilesDO\322112\Desktop\УП ПО\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+\\server4\ProfilesDO\322112\Desktop\УП ПО\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+\\server4\ProfilesDO\322112\Desktop\УП ПО\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+\\server4\ProfilesDO\322112\Desktop\УП ПО\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+\\server4\ProfilesDO\322112\Desktop\УП ПО\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+\\server4\ProfilesDO\322112\Desktop\УП ПО\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+\\server4\ProfilesDO\322112\Desktop\УП ПО\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+\\server4\ProfilesDO\322112\Desktop\УП ПО\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+\\server4\ProfilesDO\322112\Desktop\УП ПО\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+\\server4\ProfilesDO\322112\Desktop\УП ПО\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+\\server4\ProfilesDO\322112\Desktop\УП ПО\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+\\server4\ProfilesDO\322112\Desktop\УП ПО\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
